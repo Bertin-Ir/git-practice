@@ -20,3 +20,6 @@ The part that matters most for anyone early in their career is that new grads an
 ## Comments ~ Sam Evans
 
 This article is useful because it moves beyond hype and looks at actual hiring data. The key takeaway is that the market is not collapsing, but it is becoming more specialized: AI, deployment, and customer-facing engineering roles are growing, while some traditional areas are cooling. For early-career engineers, that means focusing on high-demand skills and practical experience is more important than ever.
+
+## Comment ~ Alp Ozbay
+I agree with Sam that this article takes away the hype and uses concrete Data. As someone who was struggling to decide whether to pursue Software Engineering with the excellency of AI, this article made me reflect (and ease my worries) about the Software Engineering job market and how it is chaning/shifting to other priorities which I will do my best to adapt to. I would like to specify something Sam commented about, "focusing on high-demand skills" today, is equal to focusing on maximizing building efficiency through AI, at least that's what "high-demand" skill means in my opinion right now.
