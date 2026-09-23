@@ -16,3 +16,7 @@ The part that matters most for anyone early in their career is that new grads an
 - Are a student or new grad planning your first roles
 - Want data, not vibes, on how AI is changing engineering hiring
 - Are deciding between a general SWE path and an AI/ML engineering path
+
+## Comments ~ Sam Evans
+
+This article is useful because it moves beyond hype and looks at actual hiring data. The key takeaway is that the market is not collapsing, but it is becoming more specialized: AI, deployment, and customer-facing engineering roles are growing, while some traditional areas are cooling. For early-career engineers, that means focusing on high-demand skills and practical experience is more important than ever.
