@@ -20,3 +20,7 @@ The part that matters most for anyone early in their career is that new grads an
 ## Comments ~ Sam Evans
 
 This article is useful because it moves beyond hype and looks at actual hiring data. The key takeaway is that the market is not collapsing, but it is becoming more specialized: AI, deployment, and customer-facing engineering roles are growing, while some traditional areas are cooling. For early-career engineers, that means focusing on high-demand skills and practical experience is more important than ever.
+
+## Add-on By Haelyn Ryoo (hr2518):
+This article is very useful for those looking for jobs in the software engineering industry. It tells us that overall, software engineering hiring is recovering, as openings at top tech companies are up about 20% from last year.
+It also shows that hiring varies a lot by company. Apple and google have been growing steadily whereas Meta has swung between hiring and layoffs. The article also showed that companies are prioritizing AI engineering roles over general software engineers, and basic AI skills may become a baseline expectation for candidates. 
